@@ -19,4 +19,4 @@ cd Checkbox-demo
 
 python checkbox_app.py
 
-![App Screenshot](screenshot (23).png)
+![App Screenshot](screenshot23.png)
