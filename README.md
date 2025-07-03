@@ -18,3 +18,5 @@ This is a simple GUI application built using **Python** and **Tkinter** that all
 cd Checkbox-demo
 
 python checkbox_app.py
+
+![App Screenshot](screenshot.png)
